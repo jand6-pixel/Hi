@@ -1,0 +1,3 @@
+# Add one URL per line to scrape.
+https://www.luckybrand.com/women/clothing?srsltid=AfmBOoqIZelW7PC6YY1yiWihlcW0YJ24SK7sqZbV0Nurc-rQj2y2thG_
+
